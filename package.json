@@ -1,0 +1,10 @@
+{
+  "name": "lame-win",
+  "version": "0.0.1",
+  "description": "Encode mp3 vbr file on Windows win LAME 3.99.5 using libsndfile 1.0.25 64bit.",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:jeromedecoster/lame-win.git"
+  },
+  "readme": "Encode mp3 vbr file on Windows win LAME 3.99.5 using libsndfile 1.0.25 64bit."
+}
